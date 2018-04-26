@@ -1,0 +1,342 @@
+[
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524722956027,
+            "changeTime": 1524722956027,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524722956027,
+            "changeTime": 1524722956027,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1524724552963,
+            "changeTime": 1524724552963,
+            "contentHash": "5f82321c4c29ef78733abe08833b3d1b6430a068"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524723286984,
+            "changeTime": 1524723286984,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1524723286988,
+            "changeTime": 1524723286988,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524723286988,
+            "changeTime": 1524723286988,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1524723332998,
+            "changeTime": 1524723332998,
+            "contentHash": "6d9b42d6b1f8f3acb283690b6b10ea983eb1a0cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1524723286985,
+            "changeTime": 1524723286985,
+            "contentHash": "e1e968b3b1241b0b99f46111ddfbaf9b8727535e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.css",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1524723286986,
+            "changeTime": 1524723286986,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.design",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524723286988,
+            "changeTime": 1524723286988,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.svg",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524723286987,
+            "changeTime": 1524723286987,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/DemoController.js",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1524723286986,
+            "changeTime": 1524723286986,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524723286986,
+            "changeTime": 1524723286986,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524723286987,
+            "changeTime": 1524723286987,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo",
+        {
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1524723414405,
+            "changeTime": 1524723414405,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 590,
+            "modifiedTime": 1524724552957,
+            "changeTime": 1524724552957,
+            "contentHash": "b41534a05575c31fc03ea71f246aad89e44297c4"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1524724552960,
+            "changeTime": 1524724552960,
+            "contentHash": "b3343447fa13a243535633388eff8a44507af2aa"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4437,
+            "modifiedTime": 1524724552964,
+            "changeTime": 1524724552964,
+            "contentHash": "2407252ccd1cf63c07ce19d9ca2e5544cd052659"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4775,
+            "modifiedTime": 1524724552969,
+            "changeTime": 1524724552969,
+            "contentHash": "0b4a2ba3c691d871e89ffc97bc2ca60b7ed7af70"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4437,
+            "modifiedTime": 1524724552974,
+            "changeTime": 1524724552974,
+            "contentHash": "2407252ccd1cf63c07ce19d9ca2e5544cd052659"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17493,
+            "modifiedTime": 1524724552988,
+            "changeTime": 1524724552988,
+            "contentHash": "c7b789fde5dd52652e4f677859a3565a2d24e499"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524724552957,
+            "changeTime": 1524724552957,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524724552960,
+            "changeTime": 1524724552960,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/shlee/Desktop/DEV/salesforce-workshop/Demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1524724552988,
+            "changeTime": 1524724552988,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
